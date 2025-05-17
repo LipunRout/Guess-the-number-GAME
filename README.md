@@ -18,7 +18,7 @@ Guess a number between 1 and 100 with real-time feedback, glowing effects, smoot
 
 ## 🚀 Live Demo
 
-👉 [Play Now](#)
+👉 [Play Now](https://lipunrout.github.io/Guess-the-number-GAME/)
 
 ---
 
